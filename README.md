@@ -10,6 +10,8 @@ This repository hosts the public version of the GEKKOS white paper, including de
 - Tokenomics and GEKK Utility Token  
 - Application Cases  
 - Founding Principles and Roadmap
+
+This white paper introduces GEKKOS, a platform designed to open seismic data to global collaboration, innovation, and new opportunities, and explains why seismic data matters more than most people realize.
   
 ---
 
@@ -50,16 +52,20 @@ It transforms legacy and modern, siloed, and inaccessible seismic archives into 
 - Integrated data search, connecting users with data owners to request or secure legal access to the right seismic datasets.
 - New monetization models and incentives for data owners, interpreters, and contributors through blockchain-native technologies.
 
+**In short, GEKKOS unlocks seismic data for global collaboration, innovation, and new opportunities.**
+
 ---
 
 ## What you’ll find here
 
 **White Paper (PDF)** → complete document with all sections, including:
 - **Problem Landscape** → current challenges in seismic data access, interpretation, and innovation
-- **Technical Notes** → hybrid architecture: cloud edge, centralized databases, blockchain, proprietary data pipelines, WebGL rendering.
+- **Technical Notes** → hybrid architecture combining cloud-edge computing, centralized databases, blockchain integration, proprietary data pipelines, and WebGL rendering.
 - **Tokenomics Overview** → GEKK utility token design, hybrid payment model.
 - **Application Areas** → energy, carbon storage, mining, etc.
 - **Roadmap** → current development status, proprietary components, PoC progress, upcoming releases.
+
+GEKKOS is being developed at a time when digitalization, cloud-native tools, and blockchain incentives converge to break seismic data free from legacy barriers.
 
 ---
 

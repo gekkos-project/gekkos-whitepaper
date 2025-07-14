@@ -22,7 +22,7 @@ Much like an echogram or MRI scan helps us see inside the human body, seismic im
 Did you know?
 - A single 3D seismic survey can cover dozens to hundreds of square kilometers and generate gigabytes (GB) to terabytes (TB = 1000 * GB) of raw data.
 - The vast majority of seismic archives are locked away in proprietary storage systems with highly restricted access.
-- Just U.S., Canada, U.K., and Norway combined hold over 60 petabytes (60 * 1000 + TB) of seismic data, much of it locked in proprietary systems and underused.
+- Just U.S., Canada, U.K., and Norway combined hold over 60 petabytes (PB = 1000 * TB) of seismic data, much of it locked in proprietary systems and underused.
 - Accessing both legacy and modern seismic datasets can take weeks or months, if permits are granted by custodians (such as authorities or rights holders). It requires costly hardware and software infrastructure, further limiting innovation and development.
 
 Seismic insights underpin industries that shape our world:

@@ -15,7 +15,7 @@ This repository hosts the public version of the GEKKOS white paper, including de
 
 ## Why Seismic Data Matters?
 
-Seismic data comes from scanning the Earth with advanced and costly technology, to reveal the hidden underground world that provides the resources to power our homes, store our carbon emissions, secure our water supplies, and keep our cities and infrastructure safe. Much like an echogram or MRI scan helps us see inside the human body, seismic imaging lets us visualize several kilometers down intothe Earth’s crust, but making sense of this data requires advanced technology, expertise, and interpretation.
+Seismic data comes from scanning the Earth with advanced and costly technology, to reveal the hidden underground world that provides the resources to power our homes, store our carbon emissions, secure our water supplies, and keep our cities and infrastructure safe. Much like an echogram or MRI scan helps us see inside the human body, seismic imaging lets us visualize several kilometers down intothe Earth’s crust, but making sense of this data requires advanced technology and expertise for data interpretation and analysis.
 
 Did you know?
 - A single 3D seismic survey can generate 10–100 GB of raw data.

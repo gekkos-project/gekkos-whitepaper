@@ -1,6 +1,6 @@
 # GEKKOS White Paper
 
-🌐 **Welcome to the official GEKKOS white paper repository**
+**Welcome to the official GEKKOS white paper repository**
 
 This repository hosts the public version of the GEKKOS white paper, including detailed sections on:
 
@@ -13,7 +13,7 @@ This repository hosts the public version of the GEKKOS white paper, including de
 
 ---
 
-## 📑 What is GEKKOS?
+## What is GEKKOS?
 
 GEKKOS is the world’s first cloud-native, blockchain-integrated platform purpose-built for seismic data management, visualization, and collaborative training.
 
@@ -21,7 +21,7 @@ It transforms legacy, siloed, and inaccessible seismic archives into an open, sc
 
 ---
 
-## 🔍 What you’ll find here
+## What you’ll find here
 
 - **White Paper (PDF)** → complete document with all sections  
 - **Technical Notes** → hybrid architecture, proprietary data pipelines, WebGL rendering  

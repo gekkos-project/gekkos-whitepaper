@@ -17,8 +17,7 @@ This repository hosts the public version of the GEKKOS white paper, including de
 
 GEKKOS is the world’s first cloud-native, blockchain-integrated platform purpose-built for seismic data management, visualization, and collaborative training.
 
-It transforms legacy, siloed, and inaccessible seismic archives into an open, scalable, and collaborative ecosystem, enabling immediate data access, interpretation training with real and synthetic datasets, knowledge transfer, and innovation in subsurface analysis across industries.
-
+It transforms legacy, siloed, and inaccessible seismic archives into an open, scalable, and collaborative ecosystem, enabling immediate data access, interpretation training on real and synthetic datasets, cross-generational knowledge transfer, and innovation in subsurface analysis across critical industries.
 ---
 
 ## What you’ll find here
@@ -51,7 +50,7 @@ To submit feedback:
 
 ## Optional: Express Interest in GEKK Token Updates
 
-We are exploring the possibility of a **near future launch of the GEKK utility token ($GEKK)** to support ecosystem access, innovation incentives, and collaborative governance.
+We are exploring the possibility of a future launch of the GEKK utility token **($GEKK)** to support ecosystem access, innovation incentives, and collaborative governance.
 
 If you are interested in receiving **early updates** or being informed of any potential whitelist opportunities related to GEKK, you can:
 
@@ -66,7 +65,7 @@ Expressing interest does **not** guarantee allocation, eligibility, or inclusion
 
 ## 📢 Disclaimer
 
-This white paper is provided for informational purposes only and does not constitute financial advice, investment solicitation, or legally binding commitments. All technical details are provided as part of GEKKOS’ public communication efforts and remain subject to change.
+This white paper is provided for informational purposes only and does not constitute financial advice, investment solicitation, or legally binding commitments. All technical details are provided as part of GEKKOS’ public communications and remain subject to ongoing development and refinement.
 
 For official updates, visit: [https://gekkos.io](https://gekkos.io)
 

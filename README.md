@@ -45,7 +45,7 @@ It transforms legacy and modern, siloed, and inaccessible seismic archives into 
 - Modern interpretation workflows on real & synthetic datasets, with optional machine learning assistance.
 - Structured, cross-generational knowledge transfer between experts, groups, and communities.
 - Traceability and visibility of seismic interpretations and related contributions, improving transparency and collaboration.
-- Gamified elements that make skill development in seismic interpretation more engaging and accessible to younger generations of geoscientists.
+- Gamified elements that make skill development in seismic interpretation more engaging and accessible to younger generations of practitioners.
 - Integrated data search, connecting users with data owners to request or secure legal access to the right seismic datasets.
 - Discovery of new monetization models and incentives for data owners, interpreters, and contributors, enabled by blockchain-native technologies.
 

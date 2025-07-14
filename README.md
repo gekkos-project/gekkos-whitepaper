@@ -2,7 +2,11 @@
 
 **Welcome to the official GEKKOS white paper repository**
 
-This repository hosts the public version of the GEKKOS white paper, including detailed sections on:
+> **Note:** This repository hosts the official GEKKOS white paper, which is currently under development. We are publishing this repository early to invite transparency, community feedback, and early interest.  
+>  
+> Follow the repository to receive updates as we release new sections and progress toward the full publication.
+
+The white paper includes detailed sections on:
 
 - Executive Summary  
 - Problem Landscape  

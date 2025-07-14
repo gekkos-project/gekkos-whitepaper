@@ -40,7 +40,14 @@ Seismic data rarely makes the headlines, but it plays a quiet and crucial role i
 
 GEKKOS is the world’s first cloud-native, blockchain-integrated platform purpose-built for seismic data management, visualization, and collaborative training.
 
-It transforms legacy, siloed, and inaccessible seismic archives into an open, scalable, and collaborative ecosystem, enabling immediate data access, interpretation training on real and synthetic datasets, cross-generational knowledge transfer, and innovation in subsurface analysis across critical industries.
+It transforms legacy and modern, siloed, and inaccessible seismic archives into a low barrier, scalable, and collaborative ecosystem, enabling:
+- Immediate data access from any region or time zone supported by internet infrastructure.
+- Modern interpretation workflows on real & synthetic datasets, with optional machine learning assistance.
+- Structured, cross-generational knowledge transfer between experts, groups, and communities.
+- Traceability and visibility of seismic interpretations and related contributions, improving transparency and collaboration.
+- Gamified elements that make skill development in seismic interpretation more engaging and accessible to younger generations of geoscientists.
+- Integrated data search, connecting users with data owners to request or secure legal access to the right seismic datasets.
+- Discovery of new monetization models and incentives for data owners, interpreters, and contributors, enabled by blockchain-native technologies.
 
 ---
 

@@ -54,7 +54,7 @@ It transforms legacy and modern, siloed, and inaccessible seismic archives into 
 
 ## What you’ll find here
 
-- **White Paper (PDF)** → complete document with all sections  
+**White Paper (PDF)** → complete document with all sections  
 - **Technical Notes** → hybrid architecture, proprietary data pipelines, WebGL rendering  
 - **Tokenomics Overview** → GEKK utility token design, hybrid payment model  
 - **Application Areas** → energy, carbon storage, mining, geothermal, hazard assessment  

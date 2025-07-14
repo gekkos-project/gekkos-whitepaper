@@ -10,6 +10,27 @@ This repository hosts the public version of the GEKKOS white paper, including de
 - Tokenomics and GEKK Utility Token  
 - Application Cases  
 - Founding Principles and Roadmap
+  
+---
+
+## Why Seismic Data Matters?
+
+Seismic data comes from scanning the Earth with advanced and costly technology, to reveal the hidden underground world that provides the resources to power our homes, store our carbon emissions, secure our water supplies, and keep our cities and infrastructure safe. Much like an echogram or MRI scan helps us see inside the human body, seismic imaging lets us visualize several kilometers down intothe Earth’s crust, but making sense of this data requires advanced technology, expertise, and interpretation.
+
+Did you know?
+- A single 3D seismic survey can generate 10–100 GB of raw data.
+- Big majority of seismic archives are stored and locked in proprietary storage data centers.
+- Accessing legacy and modern datasets can take weeks or months if permits granted by custodians (autorities or right owners) — limiting development and innovation.
+
+Seismic insights underpin industries that shape our world:
+- $4T global oil & gas market.
+- $60B+ geothermal sector (7%+ annual growth).
+- Multi-gigaton CO₂ carbon capture and storage to mitigate climate change.
+- Groundwater management for 2.5B people
+- $1.6T mining industry for energy transition minerals
+- Earthquake and hazard assessments protecting lives and trillions in infrastructure
+
+Seismic data rarely makes the headlines, but it plays a quiet and crucial role in our lives, helping us find the resources we rely on, protect the climate, manage water, and keep our communities safe.
 
 ---
 
@@ -18,6 +39,7 @@ This repository hosts the public version of the GEKKOS white paper, including de
 GEKKOS is the world’s first cloud-native, blockchain-integrated platform purpose-built for seismic data management, visualization, and collaborative training.
 
 It transforms legacy, siloed, and inaccessible seismic archives into an open, scalable, and collaborative ecosystem, enabling immediate data access, interpretation training on real and synthetic datasets, cross-generational knowledge transfer, and innovation in subsurface analysis across critical industries.
+
 ---
 
 ## What you’ll find here

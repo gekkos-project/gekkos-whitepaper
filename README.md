@@ -52,22 +52,23 @@ It transforms legacy and modern, siloed, and inaccessible seismic archives into 
 - Modern interpretation workflows on real & synthetic datasets, with optional machine learning assistance.
 - Structured, cross-generational knowledge transfer between experts, groups, and communities.
 - Traceability and visibility of seismic interpretations and related contributions, improving transparency and collaboration.
-- Gamified elements that make skill development in seismic interpretation more engaging and accessible to younger generations of practitioners.
+- Planned gamified elements that make skill development in seismic interpretation more engaging and accessible to younger generations of practitioners.
 - Integrated data search, connecting users with data owners to request or secure legal access to the right seismic datasets.
-- New monetization models and incentives for data owners, interpreters, and contributors through blockchain-native technologies.
+- Exploration of new monetization models and incentives for data owners, interpreters, and contributors through blockchain-native technologies.
 
 **In short, GEKKOS unlocks seismic data for global collaboration, innovation, and new opportunities.**
 
 ---
 
-## What you’ll find here
+## What you’ll find here 
+> (under development - to be released soon)
 
 **White Paper (PDF)** → complete document with all sections, including:
 - **Problem Landscape** → current challenges in seismic data access, interpretation, and innovation
 - **Technical Notes** → hybrid architecture combining cloud-edge computing, centralized databases, blockchain integration, proprietary data pipelines, and WebGL rendering.
 - **Tokenomics Overview** → GEKK utility token design, hybrid payment model.
 - **Application Areas** → energy, carbon storage, mining, etc.
-- **Roadmap** → current development status, proprietary components, PoC progress, upcoming releases.
+- **Roadmap** → current development status, proprietary components, PoC progress, upcoming releases. The GEKKOS project already has core proprietary components, with initial proof-of-concept (PoC) milestones underway.
 
 GEKKOS is being developed at a time when digitalization, cloud-native tools, and blockchain incentives converge to break seismic data free from legacy barriers.
 
@@ -91,6 +92,7 @@ To submit feedback:
 
 ---
 
+> “This repository is for informational purposes only and does not constitute an investment offering.”
 ## Optional: Express Interest in GEKK Token Updates
 
 We are exploring the possibility of a future launch of the GEKK utility token **($GEKK)** to support ecosystem access, innovation incentives, and collaborative governance.

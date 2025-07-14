@@ -62,6 +62,13 @@ It transforms legacy and modern, siloed, and inaccessible seismic archives into 
 
 **In short, GEKKOS unlocks seismic data for global collaboration, innovation, and new opportunities.**
 
+
+### Minimal Architecture Overview
+
+![GEKKOS Architecture Diagram](https://raw.githubusercontent.com/gekkos-project/gekkos-whitepaper/main/assets/images/minimal_architecture.png)
+
+_Illustration: Core data flow from original seismic datasets through Gekkos' processing, cloud storage, metadata & security layer, to edge CDN delivery and interactive browser rendering (WebGL)._
+
 ---
 
 ## What you’ll find here 

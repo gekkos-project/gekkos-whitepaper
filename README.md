@@ -60,6 +60,8 @@ It transforms legacy and modern, siloed, and inaccessible seismic archives into 
 - Integrated data search, connecting users with data owners to request or secure legal access to the right seismic datasets.
 - Exploration of new monetization models and incentives for data owners, interpreters, and contributors through blockchain-native technologies.
 
+In the future, GEKKOS may integrate $GEKK utility tokens to manage access permissions, incentivize contributions, and support ecosystem governance.
+
 **In short, GEKKOS unlocks seismic data for global collaboration, innovation, and new opportunities.**
 
 
@@ -67,7 +69,7 @@ It transforms legacy and modern, siloed, and inaccessible seismic archives into 
 
 ![GEKKOS Architecture Diagram](https://raw.githubusercontent.com/gekkos-project/gekkos-whitepaper/main/assets/images/minimal_architecture.png)
 
-_Illustration: Core data flow from original seismic datasets through Gekkos' processing, cloud storage, metadata & security layer, to edge CDN delivery and interactive browser rendering (WebGL)._
+_Illustration:_ The diagram shows the core data flow in GEKKOS: raw seismic datasets are transformed into multiresolution pyramid formats, stored securely in the cloud, tagged with metadata, delivered via edge CDN, and rendered live in-browser using WebGL. This architecture ensures fast, secure, and scalable access to large-scale geophysical data, even across time zones and devices.
 
 ---
 
@@ -106,7 +108,7 @@ To submit feedback:
 > ⚠️ **Disclaimer:** “This repository is for informational purposes only and does not constitute an investment offering.”
 ## Optional: Express Interest in GEKK Token Updates
 
-We are exploring the possibility of a future launch of the GEKK utility token **($GEKK)** to support ecosystem access, innovation incentives, and collaborative governance.
+_Note:_ We are exploring the possibility of a future launch of the GEKK utility token **($GEKK)** to support ecosystem access, innovation incentives, and collaborative governance.
 
 If you are interested in receiving **early updates** or being informed of any potential whitelist opportunities related to GEKK, you can:
 

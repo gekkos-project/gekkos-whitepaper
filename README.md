@@ -92,7 +92,7 @@ To submit feedback:
 
 ---
 
-> “This repository is for informational purposes only and does not constitute an investment offering.”
+> ⚠️ **Disclaimer:** “This repository is for informational purposes only and does not constitute an investment offering.”
 ## Optional: Express Interest in GEKK Token Updates
 
 We are exploring the possibility of a future launch of the GEKK utility token **($GEKK)** to support ecosystem access, innovation incentives, and collaborative governance.

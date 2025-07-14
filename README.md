@@ -64,8 +64,11 @@ In the future, GEKKOS may integrate $GEKK utility tokens to manage access permis
 
 **In short, GEKKOS unlocks seismic data for global collaboration, innovation, and new opportunities.**
 
+---
 
 ### Minimal Architecture Overview
+
+This minimal architecture overview shows how GEKKOS handles seismic data from raw input to interactive exploration. Raw seismic datasets are transformed into multiresolution pyramid formats optimized for fast access. Once stored securely in the cloud, they are tagged with metadata (including lineage and provenance) and passed through a security layer that manages encryption, access levels, and (in future) token-based permissions using $GEKK. Data is delivered efficiently over an edge CDN and rendered directly in the browser using WebGL, ensuring high performance even at large scale.
 
 ![GEKKOS Architecture Diagram](https://raw.githubusercontent.com/gekkos-project/gekkos-whitepaper/main/assets/images/minimal_architecture.png)
 

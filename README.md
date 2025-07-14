@@ -27,7 +27,7 @@ Much like an echogram or MRI scan helps us see inside the human body, seismic im
 
 ![MRI vs Seismic comparison](https://raw.githubusercontent.com/gekkos-project/gekkos-whitepaper/main/assets/images/MRI%20vs%20Seismic.png)
 **Left:** MRI scan of the human brain. Tens of centimeters scale.  
-**Right:** Seismic section showing subsurface structures. Kilometers scale — rendered by tiles using GEKKOS. Example from the Smeaheia dataset, licensed by Gassnova and Equinor.
+**Right:** Seismic section showing subsurface structures. Kilometers scale, rendered by tiles using GEKKOS. Example from the Smeaheia dataset, licensed by Gassnova and Equinor.
 
 Did you know?
 - A single 3D seismic survey can cover dozens to hundreds of square kilometers and generate gigabytes (GB) to terabytes (TB = 1000 * GB) of raw data.

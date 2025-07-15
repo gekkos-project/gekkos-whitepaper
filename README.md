@@ -111,7 +111,7 @@ To submit feedback:
 > ⚠️ **Disclaimer:** “This repository is for informational purposes only and does not constitute an investment offering.”
 ## Optional: Express Interest in GEKK Token Updates
 
-_Note:_ We are exploring the possibility of a future launch of the GEKK utility token **($GEKK)** to support ecosystem access, innovation incentives, and collaborative governance.
+_Note:_ We are currently exploring, with no commitment or guarantee, the future possibility of a GEKK utility token ($GEKK) to support ecosystem access, innovation incentives, and collaborative governance. No token is currently offered or available for sale. Any future token plans will comply with applicable regulatory and legal frameworks and will be announced transparently through official channels.
 
 If you are interested in receiving **early updates** or being informed of any potential whitelist opportunities related to GEKK, you can:
 

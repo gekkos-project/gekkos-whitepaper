@@ -1,4 +1,5 @@
 # GEKKOS White Paper
+**A Cloud-Native Platform with a Blockchain Layer to Transform Subsurface Data into Knowledge and Value**
 
 **Welcome to the official GEKKOS white paper repository**
 
